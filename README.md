@@ -19,7 +19,7 @@ The model was made only with help of Nicholas Renotte tutorial.
 ## How Frontend Works:
 * Once the Frontend is loaded.
 * Show the Sign language of character you wanted to translate
-* For the 50 frames predicted text conversion will be stored in backend and most predicted character will be displayed in front of character.
+* For the 5frames predicted text conversion will be stored in backend and most predicted character will be displayed in front of character.
 * When all the characters will be predicted don't show any sign language in screen. When Model finds blank screen it predicts word is completed.
 * After Predicting all characters it will be shifted in front of word and if blank screen continues it will be shifted in front of sentence.
 
