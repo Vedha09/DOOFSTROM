@@ -16,3 +16,10 @@ The model was made only with help of Nicholas Renotte tutorial.
 * Execute train.py file so json & h5 files for your dataset will be created
 * Execute the App.py file so the frontend will be loaded & conversion of each sign language will be displayed
 
+## How Frontend Works:
+* Once the Frontend is loaded.
+* Show the Sign language of character you wanted to translate
+* For the 50 frames predicted text conversion will be stored in backend and most predicted character will be displayed in front of character.
+* When all the characters will be predicted don't show any sign language in screen. When Model finds blank screen it predicts word is completed.
+* After Predicting all characters it will be shifted in front of word and if blank screen continues it will be shifted in front of sentence.
+
