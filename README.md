@@ -16,3 +16,9 @@ The model was made only with help of Nicholas Renotte tutorial.
 * train.py file: File contains the code of model training.
 * app.py File: Contains the code of Front End which is created using TKinter.
 
+## Steps to Execute:
+* I have uploaded dataset. Execute Collect data file first and Create your own Dataset for each character.
+* Execute Image processing and Preprocessing files. So the Black & White Images of your dataset will be created.
+* Execute train.py file so json & h5 files for your dataset will be created
+* Execute the App.py file so the frontend will be loaded & conversion of each sign language will be displayed
+
