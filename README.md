@@ -38,3 +38,8 @@ https://drive.google.com/drive/folders/1ZVu74TR2fl97ijLBrg4V-AJG5Q3JoFW6?usp=sha
 https://docs.google.com/document/d/1D2dEWvaevWLBJg5aGfkpiWMZKcV0pNcD/edit?usp=share_link&ouid=107885165483411500951&rtpof=true&sd=true
 <br/>
 
+## How_app_works:
+
+
+https://user-images.githubusercontent.com/115984518/198813128-452d2a28-1977-40e4-806d-1b4b3710a68d.mp4
+
