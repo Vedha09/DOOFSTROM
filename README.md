@@ -33,3 +33,8 @@ https://drive.google.com/drive/folders/1ZVu74TR2fl97ijLBrg4V-AJG5Q3JoFW6?usp=sha
 * When all the characters will be predicted don't show any sign language in screen. When Model finds blank screen it predicts word is completed.
 * After Predicting all characters it will be shifted in front of word and if blank screen continues it will be shifted in front of sentence.
 
+## Source_code_image_detection
+<br/>
+https://docs.google.com/document/d/1D2dEWvaevWLBJg5aGfkpiWMZKcV0pNcD/edit?usp=share_link&ouid=107885165483411500951&rtpof=true&sd=true
+<br/>
+
